@@ -4,6 +4,9 @@
 &nbsp; &nbsp; email: zev@inthemeantime.com<br/>
 &nbsp; &nbsp; [Resume](https://ZachVandecar.github.io/SiteFiles/Resume/ZVresume.pdf){:target="_blank"}
 
+<a href="https://ZachVandecar.github.io/SiteFiles/Resume/ZVresume.pdf" target="_blank">Hello, world!</a>
+
+
 <br/>
 <br/>
 <br/>
