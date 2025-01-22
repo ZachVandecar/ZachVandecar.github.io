@@ -2,7 +2,7 @@
 <img src="SiteFiles/image.png" align="left" width=150>&nbsp; Current Job<br/>
 &nbsp; Job Location <br/>
 &nbsp; &nbsp; email: zev@inthemeantime.com<br/>
-&nbsp; &nbsp; [Resume](https://ZachVandecar.github.io/ZachVandecar/SiteFiles/Resume/ZVresume.pdf)
+&nbsp; &nbsp; [Resume](https://ZachVandecar.github.io/SiteFiles/Resume/ZVresume.pdf)
 
 <br/>
 <br/>
