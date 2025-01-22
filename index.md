@@ -2,9 +2,9 @@
 <img src="SiteFiles/image.png" align="left" width=150>&nbsp; Current Job<br/>
 &nbsp; Job Location <br/>
 &nbsp; &nbsp; email: zev@inthemeantime.com<br/>
-&nbsp; &nbsp; [Resume](https://ZachVandecar.github.io/SiteFiles/Resume/ZVresume.pdf){:target="_blank"}
+&nbsp; &nbsp; <a href="https://ZachVandecar.github.io/SiteFiles/Resume/ZVresume.pdf" target="_blank">Resume</a>
 
-<a href="https://ZachVandecar.github.io/SiteFiles/Resume/ZVresume.pdf" target="_blank">Hello, world!</a>
+
 
 
 <br/>
