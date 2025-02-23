@@ -17,5 +17,3 @@
 bunch of welcome text.
 
 ### Sample Work 
-
-Check out [one of my recent safety reports](https://agmath.github.io/PagesBasic/SiteFiles/SampleSafetyReport.html) 
