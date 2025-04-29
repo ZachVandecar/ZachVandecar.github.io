@@ -27,3 +27,8 @@ I'm Zach Vandecar, and I recently graduated from Southern New Hampshire Universi
 
 
 
+### Data Science Report 
+
+I did many data analysis reports in Rstudio within a Quarto document. The focus was to introduce the context, propose a solution using data science, and then work through the solution while explaining the process. The code is visible, but there are visuals and explanations accompanying it. See the link to one of my finished reports below:
+
+https://zachvandecar.github.io/ClassificationWithR/FinalProj.html
