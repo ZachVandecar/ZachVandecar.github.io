@@ -1,5 +1,5 @@
 
-<img src="SiteFiles/image.png" align="left" width=150>&nbsp; Aspiring Data Scientist<br/>
+<img src="SiteFiles/bacon2.png" align="left" width=150>&nbsp; Aspiring Data Scientist<br/>
 &nbsp;  <br/>
 &nbsp; &nbsp; email: zev@inthemeantime.com<br/>
 &nbsp; &nbsp; <a href="https://ZachVandecar.github.io/SiteFiles/Resume/Vandecar-Zachary-Resume.pdf" target="_blank">Resume</a>
