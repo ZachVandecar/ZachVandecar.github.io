@@ -2,7 +2,7 @@
 <img src="SiteFiles/image.png" align="left" width=150>&nbsp; Aspiring Data Scientist<br/>
 &nbsp;  <br/>
 &nbsp; &nbsp; email: zev@inthemeantime.com<br/>
-&nbsp; &nbsp; <a href="https://ZachVandecar.github.io/SiteFiles/Resume/ZVresume.pdf" target="_blank">Resume</a>
+&nbsp; &nbsp; <a href="https://ZachVandecar.github.io/SiteFiles/Resume/Vandecar-Zachary-Resume" target="_blank">Resume</a>
 
 
 
